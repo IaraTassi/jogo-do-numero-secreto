@@ -1,18 +1,6 @@
 # Projeto Jogo do número Secreto
-Este é o repositório do projeto Jogo do número Secreto, desenvolvido durante o curso de Lógica de programação: explore funções e listas em parceria com Oracle e Alura.
-Este projeto foi desenvolvido pela Alura em parceria com a Oracle para o programa One Oracle Next Education a tecnologia é para todos.
-
-<h2>
-    <a href="https://www.oracle.com/br/education/oracle-next-education/">
-     <img align="center" width="40px" ></a>
-    <span>Oracle - One Next Education</span>
-</h2>
-
-<h2>
-    <a href="https://www.alura.com.br/">
-     <img align="center" width="40px" ></a>
-    <span>Alura</span>
-</h2>
+Este é o repositório do projeto Jogo do número Secreto, foi feito durante o curso de Lógica de programação: explore funções e listas.
+Projeto desenvolvido pela Oracle [Oracle - One Next Education](https://www.oracle.com/br/education/oracle-next-education/) em parceria com a Alura [Alura](https://www.alura.com.br/) para o programa One Oracle Next Education a tecnologia é para todos.
 
 O programa tem duas formações
 
