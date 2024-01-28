@@ -1,6 +1,6 @@
 # Projeto Jogo do número Secreto
 Este é o repositório do projeto Jogo do número Secreto, desenvolvido durante o curso de Lógica de programação: explore funções e listas em parceria com 
-[![Oracle](https://www.oracle.com/br/education/oracle-next-education/)] e Alura [![Alura](https://www.alura.com.br/)]. Este projeto foi desenvolvido pela Alura em parceria com a Oracle para o programa One Oracle Next Education a tecnologia é para todos.
+! [Oracle ](https://www.oracle.com/br/education/oracle-next-education/) e Alura ! [Alura](https://www.alura.com.br/). Este projeto foi desenvolvido pela Alura em parceria com a Oracle para o programa One Oracle Next Education a tecnologia é para todos.
 O programa tem duas formações
 
 Desenvolvimento pessoal:
@@ -24,7 +24,7 @@ Iniciante em programação
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"  /> HTML
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="20" height="20" /> CSS
 
-Acesse o projeto através do link: [Jogo do número sexreto](https://jogo-zaktzniyl-iaratassi.vercel.app/)
+Acesse o projeto através do link: [Jogo do número Secreto](https://jogo-zaktzniyl-iaratassi.vercel.app/)
 
  ### 👁 O resultado
  ✨ Imagem do projeto
