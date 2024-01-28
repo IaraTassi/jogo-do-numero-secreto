@@ -23,7 +23,7 @@ Iniciante em programação
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"  /> HTML
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="20" height="20" /> CSS
 
-Acesse o projeto através do link: [Jogo do número sexreto](jogo-e007od7oq-iaratassi.vercel.app)
+Acesse o projeto através do link: [Jogo do número sexreto](jogo-n3xhw5vwo-iaratassi.vercel.app)
 
  ### 👁 O resultado
  ✨ Imagem do projeto
